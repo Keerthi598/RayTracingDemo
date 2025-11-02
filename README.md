@@ -18,7 +18,7 @@ A C++ OpenGL project demonstrating a basic ray tracing renderer with multiple li
 ---
 
 ### RT On
-![Ray Trace On](RayTracingDemo/RTOn.png)
+![Ray Trace On](RayTracingDemo/RT_On.png)
 
     
 ---
