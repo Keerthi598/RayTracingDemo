@@ -11,6 +11,16 @@ A C++ OpenGL project demonstrating a basic ray tracing renderer with multiple li
     Implemented shine and reflection calculations to simulate realistic lighting
 -   Camera Positioning:  
     Full control over camera placement and scene view
+
+### RT Off
+[Ray Trace Off](RayTracingDemo/RT_Off.png)
+
+---
+
+### RT On
+[Ray Trace On](RayTracingDemo/RTOn.png)
+
+    
 ---
 ### Tech Stack
 - C++
